@@ -1,6 +1,6 @@
 
 #find longest substring -> continous
-
+#abad
 def substrlongest(str):
     maxlen=0
     
@@ -15,8 +15,8 @@ def substrlongest(str):
             
     return maxlen
 
-abad
 
+# abad->aba, bad - 3
 
 
 
